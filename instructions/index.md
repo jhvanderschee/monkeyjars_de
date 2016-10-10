@@ -1,5 +1,5 @@
 ---
-title: Pflegetipps
+title: Pflegetips
 layout: instructions
 ---
 
