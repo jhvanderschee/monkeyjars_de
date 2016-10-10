@@ -78,6 +78,8 @@ Zeker als je niet te zuinig omspringt met de gieter.</p>
         <div class="row">
             <div class="col-xs-12 text-left">
                       <h2 class="post-title editable" style="margin: 0;">Pflege</h2>
+                      
+                      <div><br />{% for p in site.pages %}{% if p.title == 'Pflege' %}{{ p.content }}{% endif %}{% endfor %}</div>
             </div> 
         </div>
       </div>
