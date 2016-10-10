@@ -1,5 +1,5 @@
 ---
-title: 'Für die Hängepflanzen: I love to shower!'
+title: 'Fur die Hangepflanzen: I love to shower!'
 order: 10
 ---
 
