@@ -1,7 +1,7 @@
 ---
 title: Pflanzennahrung
-order: 1
+order: 9
 ---
 
 
-Ich liebe Steaks. Am besten gut durchgebraten. Kleiner Scherz! Ganz normaler Pflanzend&uuml;nger ist schon ok, gerne einmal im Monat.
+Ich liebe Steaks. Am besten gut durchgebraten. Kleiner Scherz! Ganz normaler Pflanzendünger ist schon ok, gerne einmal im Monat.
