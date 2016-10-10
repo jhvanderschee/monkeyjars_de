@@ -1,11 +1,13 @@
 ---
-title: Wat is Monkey Jars?
+title: Wer ist Monkey Jars?
 ---
 
-**Officieel is Monkey Jars een variëteit van de Nepenthes. Nee, die naam zegt je vermoedelijk niks. Maar je hebt ongetwijfeld weleens gehoord van vleesetende planten. Nepenthes is er zo één. Ze groeien in tropische regenwouden, zoals die op Borneo. Daar zijn het klimplanten. Ze bereiken met een gemak een hoogte van wel 15 meter. (Schrik niet: als je Monkey Jars in huis haalt, hoef je het dak niet uit te bouwen!)** 
 
-Die planten uit tropische oerwouden worden ook in Nederland geteeld. Ze groeien in Hollandse kassen onder hoge temperaturen en in een vochtig klimaat. Voordat een exemplaar van Monkey Jars in de winkel staat, heeft-ie al twee jaar lang doorgebracht in de kas. In de gemiddelde huiskamer overleeft-ie met gemak. Zeker als je niet te zuinig omspringt met de gieter.
+**Offiziell ist Monkey Jars eine Variet&auml;t der Nepenthes. Dieser Name sagt dir jetzt vermutlich nichts. Aber von fleischfressenden Pflanzen hast du bestimmt schon mal geh&ouml;rt. Zu denen geh&ouml;rt auch die Nepenthes oder Kannenpflanze. Sie w&auml;chst in tropischen Regenw&auml;ldern, unter anderem auf Borneo. Dort kommt sie als Kletterpflanze vor und erreicht locker eine H&ouml;he von um die 15 Meter. (Keine Sorge: wenn du dir eine Monkey Jars ins Haus holst, brauchst du dein Dach nicht auszubauen!)**
 
-### Decoratief voor in huis
+Diese tropischen Urwaldpflanzen werden auch in den Niederlanden gez&uuml;chtet. Dort wachsen sie bei hohen Temperaturen und feuchtem Klima in den holl&auml;ndischen Gew&auml;chsh&auml;usern. Bevor ein Exemplar der Monkey Jars in den Laden kommt, hat es schon zwei Jahre im Gew&auml;chshaus hinter sich. In einem Durchschnittswohnzimmer kann es problemlos &uuml;berleben. Vor allem, wenn du nicht zu geizig mit der Gie&szlig;kanne umgehst.
 
-Met Monkey Jars haal je een stoere plant in huis. Kijk maar naar z’n uiterlijk: een brute vleeseter die vliegjes en insecten rauw lust. Monkey Jars is er in twee varianten; als hangplant en als staande plant. Koop je ‘m als staande plant? Dan is het waterreservoir al ingebouwd.
+### Dekorativ zu Hause
+
+Mit der Monkey Jars holst du dir eine echt coole Pflanze ins Haus. Schau dir deinen neuen Mitbewohner nur mal richtig an: ein brutaler Fleischfresser, der Fliegen und Insekten roh verschlingt.
+<br>Die Monkey Jars ist in zwei Varianten zu haben: entweder als H&auml;ngepflanze oder als stehende Pflanze. Du willst die stehende Version? Dann ist der Wasserspeicher schon gleich mit eingebaut.
