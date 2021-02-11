@@ -21,11 +21,12 @@ oorsprong:
       meine Kannen behalte, hängt immer davon ab, wie gut ich gepflegt werde.
       Wenn ich nicht genug Wasser trinke, können die Kannen austrocknen – dann
       werden sie braun – und absterben.
-  - title: Waar komt de naam Monkey Jars vandaan?
+  - title: Woher kommt der Name „Monkey Jars“?
     content: >-
-      De apen die door de jungle slingeren nemen onderweg wel eens een slokje
-      water uit mijn beker. Vandaar de naam ‘Monkey Jars’. Ik word ook wel
-      ‘bekerplant’ genoemd. Maar jij mag ‘Monkey Jars’ zeggen ;-).
+      Wenn die Affen durch den Dschungel schwingen, trinken sie unterwegs gerne
+      mal Wasser aus einer meiner Kannen. Daher der Name „Monkey Jars“. Ich bin
+      auch als „Kannenpflanze“ bekannt, aber du darfst mich gerne „Monkey Jars“
+      nennen ;-)
 water_geven:
   - title: Mag ik je meenemen onder de douche?
     content: >-
