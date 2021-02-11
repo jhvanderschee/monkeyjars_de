@@ -79,11 +79,11 @@ plaats:
       Ich bin ein echter Casanova. Mit der roten Farbe meiner Kannen locke ich
       Insekten an. Je kräftiger die Farbe meiner Kannen, desto mehr Hunger habe
       ich!
-  - title: Wanneer ontstaan er bekers?
+  - title: Wann bildest du Kannen?
     content: >-
-      Ik ben een summer dude; in de wintermaanden groei ik langzaam, maar in de
-      zomer groeien mijn bladeren een stuk sneller en ontstaan er ook nieuwe
-      bekers. De bekers zijn een verlengde van mijn blad.
+      Ich bin ein Sommerfan. In den Wintermonaten wachse ich langsam, aber im
+      Sommer wachsen meine Blätter viel schneller. Dann bilden sich auch neue
+      Kannen. Die Kannen sind eine Verlängerung meines Blattes.
   - title: Kan ik mijn Monkey Jars verpotten?
     content: >-
       Ik heb een hekel aan verhuizen. Ik hoop dan ook dat je mij lekker in mijn
