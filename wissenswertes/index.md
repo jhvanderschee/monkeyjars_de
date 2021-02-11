@@ -15,11 +15,12 @@ oorsprong:
       den Rand meiner Kannen setzen, rutschen sie leicht ab und landen in meiner
       Kanne. Meine Kannen sind mit einer klebrigen Flüssigkeit voller
       Verdauungsenzyme gefüllt.
-  - title: Blijven de bekers altijd aan de plant vast zitten?
+  - title: Bleiben die Kannen für immer an der Pflanze?
     content: >-
-      Mijn bekers kunnen soms wel jaren blijven zitten. Dit hangt vooral af van
-      hoe ik word verzorgd. Als ik te weinig water drink, kunnen de bekers
-      uitdrogen (ze worden bruin) en sterven ze af.
+      Manche meiner Kannen schleppe ich jahrelang mit mir herum. Wie lange ich
+      meine Kannen behalte, hängt immer davon ab, wie gut ich gepflegt werde.
+      Wenn ich nicht genug Wasser trinke, können die Kannen austrocknen – dann
+      werden sie braun – und absterben.
   - title: Waar komt de naam Monkey Jars vandaan?
     content: >-
       De apen die door de jungle slingeren nemen onderweg wel eens een slokje
