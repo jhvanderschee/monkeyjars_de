@@ -84,11 +84,11 @@ plaats:
       Ich bin ein Sommerfan. In den Wintermonaten wachse ich langsam, aber im
       Sommer wachsen meine Blätter viel schneller. Dann bilden sich auch neue
       Kannen. Die Kannen sind eine Verlängerung meines Blattes.
-  - title: Kan ik mijn Monkey Jars verpotten?
+  - title: Kann ich meine Monkey Jars umtopfen?
     content: >-
-      Ik heb een hekel aan verhuizen. Ik hoop dan ook dat je mij lekker in mijn
-      vertrouwde potje wil laten zitten. De potgrond is speciaal samengesteld
-      voor mij als vleeseter en ik ben er erg aan gehecht.
+      Ich hasse Umzüge. Daher hoffe ich, dass ich in meinem vertrauten Topf
+      bleiben kann. Die Blumenerde ist speziell für Fleischfresser wie mich
+      formuliert, und ich hänge sehr an ihr.
 plantenvoeding:
   - title: Kan ik mijn Monkey Jars kunstmest geven?
     content: >-
