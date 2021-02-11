@@ -58,15 +58,15 @@ water_geven:
       Regenwasser enthält keinen Kalk. Der schmeckt mir nämlich weniger. Darum
       kannst du mir gerne mal eine Regendusche im Freien gönnen. Aber auch
       Leitungswasser schlürfe ich gerne.
-  - title: Hoe weet ik hoeveel water ik moet geven?
+  - title: 'Woher weiß ich, wie viel Wasser ich dir geben muss?'
     content: >-
-      Ik houd van aandacht ☺. Kijk daarom goed naar me en voel zo nu en dan aan
-      mijn grond. Als ik niet bruin word en mijn grond een beetje vochtig is dan
-      voel ik me lekker. Als je goede vriendjes met me wilt worden, kijk dan
-      vooral in het begin extra vaak naar me en probeer te ontdekken hoeveel
-      water ik nodig heb. Je kunt mijn bladeren vochtig houden met een
-      plantenspuit. Maar overdrijf het niet, van te veel water worden mijn
-      wortels ziek en ga ik dood.
+      Ich bekomme gerne Aufmerksamkeit ☺ Du solltest mich also öfter mal genauer
+      anschauen und meine Erde fühlen. Wenn ich nicht braun werde und mein Boden
+      ein wenig feucht ist, fühle ich mich wohl. Besonders gute Freunde werden
+      wir, wenn du vor allem zu Beginn ganz oft nach mir siehst und versuchst
+      herauszufinden, wie viel Wasser ich brauche. Du kannst meine Blätter mit
+      einer Sprühflasche besprühen, um sie zu befeuchten. Übertreibe es aber
+      nicht! Von zu viel Wasser werden meine Wurzeln krank. Und dann sterbe ich.
 plaats:
   - title: Wat is de beste plek voor mijn Monkey Jars?
     content: >-
