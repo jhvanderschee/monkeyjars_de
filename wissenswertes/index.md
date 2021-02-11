@@ -47,11 +47,12 @@ water_geven:
       Ort gestellt. In einem solchen Fall ist es wichtig, dass du meinen Durst
       löschst und mich möglichst an einen feuchten Ort stellst. Ins Badezimmer
       zum Beispiel.
-  - title: Mag ik de bruine uitgedroogde bekers afknippen?
+  - title: Darf ich braune und ausgetrocknete Kannen abschneiden?
     content: >-
-      Ja, de bruine bekers zijn afgestorven. Je mag ze afknippen. Het maakt niet
-      uit waar; je kunt ze direct boven aan de stengel afknippen of onderaan. Ik
-      ga daarna hard mijn best doen om nieuwe bekers te maken.
+      Ja, denn braune Kannen sind abgestorben. Du kannst sie bedenkenlos
+      abschneiden. Es spielt keine Rolle, wo du sie abschneidest. Du kannst sie
+      direkt oben am Stiel oder unten abschneiden. Ich bemühe mich dann ganz
+      besonders, neue Kannen zu bilden.
   - title: Moet ik altijd regenwater geven?
     content: >-
       Regenwater bevat geen kalk. Kalk vind ik wat minder lekker. Je mag mij
