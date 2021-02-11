@@ -7,13 +7,14 @@ oorsprong:
       Ursprünglich stamme ich aus dem tropischen Regenwald von Borneo und
       Umgebung. Dort kann es ganz schön heftig regnen ... Deshalb liebe ich auch
       viel Wasser und eine hohe Luftfeuchtigkeit.
-  - title: Waar groei je in de natuur?
+  - title: Wo wächst du in der Natur?
     content: >-
-      In de natuur groei ik tussen de bomen in de jungle. Voor mij een ideale
-      plek, omdat mijn voedsel bestaat uit kleine vliegjes en insecten. Ik lok
-      ze met mijn nectar. Als de insecten op mijn bekerrand landen, glijden ze
-      makkelijk uit en vallen in mijn beker. Mijn bekers zijn gevuld met een
-      plakkerige vloeistof vol verteringsenzymen.
+      In der Natur wachse ich zwischen den Bäumen im Dschungel. Das ist für mich
+      ein idealer Ort, denn meine Nahrung besteht aus kleinen Fliegen und
+      Insekten. Die locke ich mit meinem Nektar an. Wenn sich die Insekten auf
+      den Rand meiner Kannen setzen, rutschen sie leicht ab und landen in meiner
+      Kanne. Meine Kannen sind mit einer klebrigen Flüssigkeit voller
+      Verdauungsenzyme gefüllt.
   - title: Blijven de bekers altijd aan de plant vast zitten?
     content: >-
       Mijn bekers kunnen soms wel jaren blijven zitten. Dit hangt vooral af van
