@@ -1,12 +1,12 @@
 ---
-title: Weetjes
+title: HÄUFIG GESTELLTE FRAGEN
 layout: weetjes
 oorsprong:
-  - title: Waar kom je vandaan?
+  - title: Woher kommst du?
     content: >-
-      Van oorsprong kom ik uit het tropisch regenwoud van Borneo en omstreken.
-      Daar kan het flink regenen! Daarom houd ik ook van veel water en een hoge
-      luchtvochtigheid.
+      Ursprünglich stamme ich aus dem tropischen Regenwald von Borneo und
+      Umgebung. Dort kann es ganz schön heftig regnen ... Deshalb liebe ich auch
+      viel Wasser und eine hohe Luftfeuchtigkeit.
   - title: Waar groei je in de natuur?
     content: >-
       In de natuur groei ik tussen de bomen in de jungle. Voor mij een ideale
