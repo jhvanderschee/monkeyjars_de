@@ -68,11 +68,12 @@ water_geven:
       einer Sprühflasche besprühen, um sie zu befeuchten. Übertreibe es aber
       nicht! Von zu viel Wasser werden meine Wurzeln krank. Und dann sterbe ich.
 plaats:
-  - title: Wat is de beste plek voor mijn Monkey Jars?
+  - title: Was ist der beste Standort für meine Monkey Jars?
     content: >-
-      Net als in de jungle houd ik van een lichte plek, maar ik kan niet tegen
-      direct zonlicht. In warme zomermaanden vind ik het heerlijk om buiten te
-      zijn, maar zet me dus niet direct in de zon.
+      Im Dschungel lebe ich an hellen Standorten, aber ich vertrage keine
+      direkte Sonneneinstrahlung. Berücksichtige das auch bei dir zu Hause. In
+      den warmen Sommermonaten bin ich gerne draußen, aber stelle mich nicht in
+      die pralle Sonne.
   - title: Waarom zijn jouw bekers rood van kleur?
     content: >-
       Ik ben een echte Casanova. Met de rode kleur van mijn bekers lok ik
