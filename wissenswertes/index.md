@@ -53,11 +53,11 @@ water_geven:
       abschneiden. Es spielt keine Rolle, wo du sie abschneidest. Du kannst sie
       direkt oben am Stiel oder unten abschneiden. Ich bemühe mich dann ganz
       besonders, neue Kannen zu bilden.
-  - title: Moet ik altijd regenwater geven?
+  - title: Muss ich dir immer Regenwasser geben?
     content: >-
-      Regenwater bevat geen kalk. Kalk vind ik wat minder lekker. Je mag mij
-      daarom prima buiten hangen tijdens een flinke regenbui. Maar ook een plons
-      kraanwater slik ik als zoete koek hoor!
+      Regenwasser enthält keinen Kalk. Der schmeckt mir nämlich weniger. Darum
+      kannst du mir gerne mal eine Regendusche im Freien gönnen. Aber auch
+      Leitungswasser schlürfe ich gerne.
   - title: Hoe weet ik hoeveel water ik moet geven?
     content: >-
       Ik houd van aandacht ☺. Kijk daarom goed naar me en voel zo nu en dan aan
