@@ -40,12 +40,13 @@ water_geven:
       Standort nicht zu trocken ist, fülle ich meine Kannen einfach selbst mit
       ein wenig Wasser. Es gibt unterschiedliche Arten von mir, und einige
       füllen ihre Kannen bis zu einem Drittel. Das ist aber nicht immer so.
-  - title: Hoe komt het dat jouw bekers bruin worden?
+  - title: Warum werden deine Kannen braun?
     content: >-
-      Als mijn bekers bruin worden is er iets mis. Meestal heb ik dan te weinig
-      water gekregen of sta ik op een plek die te droog of te licht voor mij is.
-      Het is dan belangrijk dat je mijn dorst lest en kijkt of je mij op een
-      vochtige plek kunt neer zetten. Bijvoorbeeld in de badkamer!
+      Wenn meine Kannen braun werden, stimmt etwas nicht. Wahrscheinlich hast du
+      mir zu wenig Wasser gegeben oder mich an einen zu trockenen oder zu hellen
+      Ort gestellt. In einem solchen Fall ist es wichtig, dass du meinen Durst
+      löschst und mich möglichst an einen feuchten Ort stellst. Ins Badezimmer
+      zum Beispiel.
   - title: Mag ik de bruine uitgedroogde bekers afknippen?
     content: >-
       Ja, de bruine bekers zijn afgestorven. Je mag ze afknippen. Het maakt niet
