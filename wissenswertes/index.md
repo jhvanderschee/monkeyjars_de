@@ -74,10 +74,11 @@ plaats:
       direkte Sonneneinstrahlung. Berücksichtige das auch bei dir zu Hause. In
       den warmen Sommermonaten bin ich gerne draußen, aber stelle mich nicht in
       die pralle Sonne.
-  - title: Waarom zijn jouw bekers rood van kleur?
+  - title: Warum sind deine Kannen rot?
     content: >-
-      Ik ben een echte Casanova. Met de rode kleur van mijn bekers lok ik
-      insecten. Hoe feller de kleur van mijn bekers, hoe meer honger ik heb!
+      Ich bin ein echter Casanova. Mit der roten Farbe meiner Kannen locke ich
+      Insekten an. Je kräftiger die Farbe meiner Kannen, desto mehr Hunger habe
+      ich!
   - title: Wanneer ontstaan er bekers?
     content: >-
       Ik ben een summer dude; in de wintermaanden groei ik langzaam, maar in de
