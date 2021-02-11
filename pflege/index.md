@@ -3,7 +3,6 @@ title: Verzorging
 layout: instructions
 ---
 
+Meine Familie und ich stammen ursprünglich aus dem tropischen Regenwald von Borneo und Umgebung. In diesem herrlich feuchten Klima fühlen wir uns so richtig wohl. Ich verstehe, dass sich in kälteren Gefilden nicht so einfach ein Regenwald herbeizaubern lässt. Aber je mehr mein neues Zuhause einem Regenwald gleicht, desto glücklicher bin ich.
 
-Mijn familie en ik komen van oorsprong uit het tropisch regenwoud van Borneo en omgeving. Daar is het lekker vochtig en daar houden we van. Ik begrijp dat in de koudere landen een regenwoud ver te zoeken is. Maar hoe meer mijn nieuwe plekje erop lijkt, hoe gelukkiger ik ben. 
-
-Ik ben een stevige drinker. Vooral mijn grond moet altijd lekker vochtig zijn. Verwen mij daarom zo nu en dan met een plantenspuit en geef mij geregeld een flinke slok water! 
+Ich bin ein starker Trinker. Besonders meine Erde sollte immer schön feucht sein. Verwöhne mich daher ab und zu mit einem Sprühnebel aus der Sprühflasche und gie&szlig;e mich mit einer Extraportion Wasser.
