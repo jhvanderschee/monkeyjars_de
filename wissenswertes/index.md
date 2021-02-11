@@ -90,11 +90,12 @@ plaats:
       bleiben kann. Die Blumenerde ist speziell für Fleischfresser wie mich
       formuliert, und ich hänge sehr an ihr.
 plantenvoeding:
-  - title: Kan ik mijn Monkey Jars kunstmest geven?
+  - title: Kann ich meiner Monkey Jars Kunstdünger geben?
     content: >-
-      Ja dat kan. Eens in de twee maanden een heel klein beetje. Anders word ik
-      misselijk. 1 gram per liter water is voldoende. Zeker als ik te weinig
-      insecten heb gegeten, is kunstmest een mooie toevoeging.
+      Ja, kein Problem! Einmal alle zwei Monate eine sehr kleine Menge. Sonst
+      wird mir übel. 1 Gramm pro Liter Wasser reicht völlig aus. Vor allem, wenn
+      ich mal zu wenige Insekten verspeist habe, ist Kunstdünger eine tolle
+      Ergänzung.
   - title: Moet ik mijn Monkey Jars vliegjes te eten geven?
     content: >-
       Nee dat hoeft niet, maar mag wel. Ik probeer zelf mijn vliegjes te vangen.
