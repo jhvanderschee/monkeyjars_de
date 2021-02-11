@@ -28,11 +28,11 @@ oorsprong:
       auch als „Kannenpflanze“ bekannt, aber du darfst mich gerne „Monkey Jars“
       nennen ;-)
 water_geven:
-  - title: Mag ik je meenemen onder de douche?
+  - title: Darf ich dich mitnehmen unter die Dusche?
     content: >-
-      Ja, dat vind ik beregezellig. Niet te vaak en je hoeft me niet in te
-      zepen, daar krijg ik een beetje jeuk van. Ik vind het ook heerlijk om in
-      een vochtige badkamer rond te hangen!
+      Ja, sehr gerne sogar! Nicht zu oft, und du musst mich auch nicht
+      einseifen. Das juckt nämlich ... Ich hänge auch gerne mal in einem
+      feuchten Badezimmer ab.
   - title: Moet ik echt water in jouw bekers doen?
     content: >-
       Nee, als je mij goed verzorgt hoeft dat niet. Mijn stengels kun je zien
