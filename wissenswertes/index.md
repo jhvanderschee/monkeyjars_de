@@ -96,10 +96,11 @@ plantenvoeding:
       wird mir übel. 1 Gramm pro Liter Wasser reicht völlig aus. Vor allem, wenn
       ich mal zu wenige Insekten verspeist habe, ist Kunstdünger eine tolle
       Ergänzung.
-  - title: Moet ik mijn Monkey Jars vliegjes te eten geven?
+  - title: Muss ich meiner Monkey Jars Fliegen füttern?
     content: >-
-      Nee dat hoeft niet, maar mag wel. Ik probeer zelf mijn vliegjes te vangen.
-      Deze verteer ik en daar haal ik weer mineralen uit. Maar als ik jarig ben,
-      lust ik best een extra vliegje!
+      Nein, das musst du nicht (aber du darfst). Ich versuche, selbst Fliegen zu
+      fangen. Während des Verdauungsvorgangs beziehe ich Mineralstoffe aus den
+      Fliegen. Wenn ich Geburtstag habe, freue ich mich aber über eine Fliege
+      von dir!
 ---
 
