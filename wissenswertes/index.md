@@ -33,13 +33,13 @@ water_geven:
       Ja, sehr gerne sogar! Nicht zu oft, und du musst mich auch nicht
       einseifen. Das juckt nämlich ... Ich hänge auch gerne mal in einem
       feuchten Badezimmer ab.
-  - title: Moet ik echt water in jouw bekers doen?
+  - title: Muss ich deine Kannen wirklich mit Wasser füllen?
     content: >-
-      Nee, als je mij goed verzorgt hoeft dat niet. Mijn stengels kun je zien
-      als een natuurlijke gieter. Als je me genoeg water geeft en de plek waar
-      ik sta niet te droog is, dan vul ik mijn beker gewoon zelf met een laagje
-      water. Afhankelijk van mijn soort vul ik mijn beker tot 1/3e, maar dat
-      hoeft niet altijd zo te zijn.
+      Nein. Wenn du mich gut pflegst, ist das nicht notwendig. Meine Stiele
+      wirken wie natürliche Gießkannen. Wenn du mich ausreichend gießt und mein
+      Standort nicht zu trocken ist, fülle ich meine Kannen einfach selbst mit
+      ein wenig Wasser. Es gibt unterschiedliche Arten von mir, und einige
+      füllen ihre Kannen bis zu einem Drittel. Das ist aber nicht immer so.
   - title: Hoe komt het dat jouw bekers bruin worden?
     content: >-
       Als mijn bekers bruin worden is er iets mis. Meestal heb ik dan te weinig
