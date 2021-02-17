@@ -1,5 +1,6 @@
 ---
-title: HÄUFIG GESTELLTE FRAGEN
+title: Wissenwertes
+top_title: HAUFIG GESTELLTE FRAGEN
 layout: weetjes
 oorsprong:
   - title: Woher kommst du?
